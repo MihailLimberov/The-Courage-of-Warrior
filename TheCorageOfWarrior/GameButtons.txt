@@ -1,0 +1,15 @@
+You live in a world where the evil lurks
+and you need to search for the most powerful 
+weapon known to man.
+Are you brave enough to find it?
+Careful, the danger is everywhere!
+______________________________________
+F5 - Start Game
+W, A, S, D - Movement
+Q - Attack
+R - Drop Item
+Eat Apple - Go under a tree
+H - Open/Close Help
+P - Take Picture
+F11 - Fullscreen
+Escape - Exit
